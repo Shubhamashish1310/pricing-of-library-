@@ -1,2 +1,12 @@
-# pricing-of-library-
-Prices 
+| #  | API / Purpose                    | Recommended Vendor       | Link                                                                                        | Pricing (Cheapest viable)                           | Node.js Compatible  |
+| -- | -------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------- |
+| 1  | **Live Gold & Silver Price**     | Metals-API               | [metals-api.com](https://metals-api.com/pricing)                                            | \$799/year (Silver plan, 10k calls/mo, 60s updates) | ✅ REST API          |
+| 2  | **Currency Conversion**          | ExchangeRate-API         | [exchangerate-api.com](https://www.exchangerate-api.com/)                                   | Free (1.5k calls/mo) → Pro \$10/mo                  | ✅ REST API          |
+| 3  | **ID Verification (KYC/AML)**    | Sumsub                   | [sumsub.com](https://sumsub.com/pricing/)                                                   | \~\$1.5–2 per verification                          | ✅ REST API + SDK    |
+| 4  | **AML Screening**                | ComplyAdvantage          | [complyadvantage.com](https://complyadvantage.com/)                                         | \~\$1k–2k/month                                     | ✅ REST API          |
+| 5  | **Live Support Chat**            | Freshchat                | [freshworks.com/live-chat-software](https://www.freshworks.com/live-chat-software/pricing/) | Free tier → Paid \$19/agent/mo                      | ✅ REST API/SDK      |
+| 6  | **Support Ticketing**            | Freshdesk                | [freshdesk.com](https://freshdesk.com/pricing)                                              | Free tier → Paid \$15/agent/mo                      | ✅ REST API          |
+| 7 | **Payments (UAE)**               | Amazon Payment Services  | [paymentservices.amazon.com](https://paymentservices.amazon.com/)                           | \~2–3% per transaction                              | ✅ REST API          |
+| 8 | **Push Notifications**           | Firebase Cloud Messaging | [firebase.google.com](https://firebase.google.com/products/cloud-messaging)                 | Free                                                | ✅ Node.js SDK       |
+| 9 | **OTP & SMS**                    | Twilio                   | [twilio.com](https://www.twilio.com/sms/pricing)                                            | \~\$0.0075 per SMS                                  | ✅ REST API          |
+
